@@ -1,6 +1,6 @@
 # MySQL-Challenges
 
-Solves a variety of MySQL Challenges using the sakila database provided by MySQL.
+Solutions to a variety of MySQL Challenges using the sakila database provided by MySQL.
 
 
 ## Table of Contents
